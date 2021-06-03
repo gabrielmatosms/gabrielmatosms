@@ -1,8 +1,7 @@
 # Hi, I'm Gabriel Matos👋🏻
 
 I'm currently working as a Developer at SONDAIT 👨🏻‍💻
-
-## 
+ 
 Passionate about art and sunny days 👨‍🎨
 
 Follow me 👇🏼
