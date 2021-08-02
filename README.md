@@ -2,7 +2,7 @@
 
 I'm currently working as a Developer at SONDAIT 👨🏻‍💻
  
-Passionate about art and sunny days 👨‍🎨
+Passionate about games, art and sunny days 👨‍🎨🕹️
 
 Follow me 👇🏼
 
