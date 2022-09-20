@@ -7,7 +7,7 @@ Front-End developer
 I'm currently working as a Software Developer at SONDAIT 👨🏻‍💻 Passionate about games, art and sunny days 👨‍🎨🕹️
 
 * 🌍  I'm based in São José dos Campos - Brasil
-* ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaabrielmatoss@hotmail.com)](mailto:gaabrielmatoss@hotmail.com)
+* ✉️  You can contact me [here](https://www.gabrielmatos.tech)
 
 ### Skills
 
