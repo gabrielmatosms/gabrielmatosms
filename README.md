@@ -1,10 +1,10 @@
 Hi, I'm Gabriel Matos👋🏻
 ==============================
 
-Front-End developer
+Software developer
 -------------------
 
-I'm currently working as a Software Developer at SONDAIT 👨🏻‍💻 Passionate about games, art and sunny days 👨‍🎨🕹️
+I'm currently working as a Software Developer at Agrotools 👨🏻‍💻 Passionate about games, art and sunny days 👨‍🎨🕹️
 
 * 🌍  I'm based in São José dos Campos - Brasil
 * ✉️  You can contact me [here](https://www.gabrielmatos.tech)
