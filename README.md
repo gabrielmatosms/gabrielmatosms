@@ -4,9 +4,8 @@ Hi, I'm Gabriel Matos👋🏻
 Software developer
 -------------------
 
-I'm currently working as a Software Developer at Agrotools 👨🏻‍💻 Passionate about games, art and sunny days 👨‍🎨🕹️
+Working as a Software Developer 👨🏻‍💻 Passionate about games, art and sunny days 👨‍🎨🕹️
 
-* 🌍  I'm based in São José dos Campos - Brasil
 * ✉️  You can contact me [here](https://www.gabrielmatos.tech)
 
 ### Skills
