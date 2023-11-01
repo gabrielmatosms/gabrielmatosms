@@ -6,7 +6,7 @@ Software developer
 
 Working as a Software Developer 👨🏻‍💻 Passionate about games, art and sunny days 👨‍🎨🕹️
 
-* ✉️  You can contact me [here](https://www.gabrielmatos.tech)
+* ✉️  You can contact me [here](gabrielmatos-gaamatoss.vercel.app)
 
 ### Skills
 
