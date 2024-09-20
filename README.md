@@ -1,12 +1,9 @@
 Hi, I'm Gabriel Matos👋🏻
 ==============================
 
-Software developer
--------------------
+Working as a * Software Developer * who is passionate about games, art and sunny days 👨‍🎨🕹️
 
-Working as a Software Developer 👨🏻‍💻 Passionate about games, art and sunny days 👨‍🎨🕹️
-
-* ✉️  You can contact me [here](gabrielmatos-gaamatoss.vercel.app)
+* ✉️  You can contact me [here](https://my-portfolio-gaamatoss.vercel.app/)
 
 ### Skills
 
@@ -26,7 +23,7 @@ Working as a Software Developer 👨🏻‍💻 Passionate about games, art and 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/gamatosms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gaamatoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabrielmms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/gamatosms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a></a><a href="http://www.instagram.com/gaamatoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a></a><a href="https://www.linkedin.com/in/gabrielmms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
