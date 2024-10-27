@@ -6,8 +6,6 @@ Working as a * Full Stack Developer * who is passionate about games, art, and su
 * ✉️  You can contact me [here](https://my-portfolio-gaamatoss.vercel.app/)
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/gamatosms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
   
 <a href="http://www.instagram.com/gaamatoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" /></a>
   
