@@ -1,9 +1,9 @@
 Hi, I'm Gabriel Matos👋🏻
 ==============================
 
-Working as a * Full Stack Developer * who is passionate about games, art, and sunny days 👨‍🎨🕹️
+Working as a *Full Stack Developer* who is passionate about games, art, and sunny days 👨‍🎨🕹️
 
-* ✉️  You can contact me [here](https://my-portfolio-gaamatoss.vercel.app/)
+* ✉️  You can contact me [here](https://portifolio-gaamatoss-projects.vercel.app/)
 
 ### Socials
   
