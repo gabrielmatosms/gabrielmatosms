@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate developer that loves to learn new things!</h3>
+<h1 align="center">Hi 👋, I'm Gabriel Matos, nice to meet you!!</h1>
+<h3 align="center">I'm a passionate developer who loves to learn new things!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmatosms&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmatosms" /> </p>
-
-<br/><br/>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielmatosms&theme=darkhub&row=2&column=3&margin-w=15&margin-h=15" alt="gabrielmatosms" /></a> </p>
-
-<br/>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=gabrielmatosms&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmatosms" /> </p>
 
 - 🌱 I’m currently learning **Salesforce Development**
 
@@ -21,9 +15,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/gabrielmms/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielmatosms" height="30" width="40" /></a>
-<a href="https://instagram.com/gabrielmatosms" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielmatosms" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabrielmms/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="gabrielmatosms" height="40" width="40" /></a>
+<a href="https://instagram.com/gabrielmatosms" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="gabrielmatosms" height="40" width="40" /></a>
 </p>
+<br/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielmatosms&theme=darkhub&row=2&column=3&margin-w=15&margin-h=15" alt="gabrielmatosms" /></a> </p>
+
 <br/>
 
 <div align="center">
