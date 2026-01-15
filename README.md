@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Gabriel Matos, nice to meet you!!</h1>
 <h3>I'm a passionate developer who loves to learn new things!</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=gabrielmatosms&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmatosms" /></p>
   
 - 🌱 I’m currently learning **Salesforce Development**
 
@@ -18,3 +17,4 @@
 </p>
 
 <br/>
+<p> <img src="https://komarev.com/ghpvc/?username=gabrielmatosms&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmatosms" /></p>
